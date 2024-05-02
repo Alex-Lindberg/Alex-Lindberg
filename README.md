@@ -12,7 +12,7 @@ I’m deeply passionate about Programming; For me it's more than a job. It requi
 <h3 align="left">Connect 🌐</h3>
 Email me at:
 
-<strong>alex.lindberg@nvrmind.se</strong>
+<strong>alex.lindberg@hedvig.com</strong>
 
 <!-- <li>
 (private) <strong>alex.lindberg1@hotmail.com</strong>
